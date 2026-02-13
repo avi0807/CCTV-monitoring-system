@@ -1,34 +1,12 @@
-# Environment variables
-.env
 
-# Python
+.env
 __pycache__/
-*.py[cod]
 *.pyc
 venv/
 monitoringvenv/
-env/
-*.egg-info/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-
-# Media files
 media/
 *.jpg
 *.jpeg
 *.png
-*.bmp
 *.mp4
-*.avi
-*.mov
-
-# Models
 *.pt
-yolov8n.pt
-
-# OS
-.DS_Store
-Thumbs.db

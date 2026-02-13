@@ -1,4 +1,4 @@
-# 🏪 AI-Powered Retail Monitoring System
+# 🏪 AI-Powered Store Monitoring System
 
 > Automated cleanliness and merchandise monitoring using Vision-Language Models
 
